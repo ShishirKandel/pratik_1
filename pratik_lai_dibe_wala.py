@@ -12,6 +12,7 @@ def get_stored_username():
         return username
 
 # 
+# 
 def get_new_username():
     username = input("what is your name? ")
     file_name = "username.json"
